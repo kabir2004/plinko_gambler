@@ -1,23 +1,19 @@
-# Plinko Gambler
+Plinko Gambler A dynamic Plinko game created with Python, Pygame, and Pymunk.
 
-Plinko Gambler is a Python game that simulates a Plinko board using Pygame and Pymunk. Players can drop balls and win (or lose) money based on where the balls land.
+Description
 
-## Features
+Plinko Gambler is an exciting game where players drop balls into a Plinko board, aiming to win or lose money based on where the balls land. The game features multiple difficulty levels and incorporates realistic physics, offering an engaging and challenging experience. With special features like streak bonuses and jackpots, Plinko Gambler provides endless fun and opportunities for big wins.
 
-- Multiple difficulty levels: Easy, Medium, Hard
-- Realistic physics using Pymunk
-- Streak bonuses and jackpots
-- Interactive GUI with Pygame
+Features
 
-## Requirements
+Three difficulty levels: Easy, Medium, and Hard
+Realistic physics simulation using Pymunk
+Streak bonuses for consecutive wins
+Jackpot feature for hitting the center bucket
+Interactive gameplay with increasing challenge
+Dynamic multipliers based on bucket landed
+Score tracking and a detailed game over screen
+Installation
 
-- Python 3.x
-- Pygame
-- Pymunk
+[Kabir Saamir] - [kabir.saamir@gmail.com]
 
-## Installation
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
