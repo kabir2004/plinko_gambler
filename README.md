@@ -19,6 +19,14 @@ FEATURES
 - **Dynamic multipliers** based on where the ball lands
 - **Score tracking** and a detailed game over screen
 
+INSTALLATION
+------------
+
+1. **Clone the repository**
+2. **Navigate to the project directory**
+3. **Install required packages**
+4. **Run the game**
+
 
 CONTACT
 -------
